@@ -1,4 +1,7 @@
-### Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!
+
+
+<img src="HenryWellman/titleBar.PNG" alt-text="Title Bar">
+ Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!
 
 <!--
 **HenryWellman/HenryWellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
