@@ -1,6 +1,6 @@
 
 
-<img src="HenryWellman/titleBar.PNG" alt-text="Title Bar">
+<img src="titleBar.png" alt-text="Title Bar">
  Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!
 
 <!--
