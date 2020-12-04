@@ -1,7 +1,11 @@
 
+<div class="container text-center">
+<img src="titleBar.png" alt-text="Title Bar" width="4000px">
+ <p class="text-center">
+  Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!
+ </p>
+</div>
 
-<img src="titleBar.png" alt-text="Title Bar">
- Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!
 
 <!--
 **HenryWellman/HenryWellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
