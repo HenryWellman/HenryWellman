@@ -5,6 +5,8 @@
 **Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!** 
 </div>
 
+[Website](https://henrywellman.com)
+
 
 <!--
 **HenryWellman/HenryWellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
