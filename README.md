@@ -5,7 +5,7 @@
 **Hi there, my name is Henry Wellman, an aspiring Software Engineer and Computer Science student at Purdue University!** 
 </div>
 
-[Website](https://henrywellman.com)
+<img src="testlogo.ico"> [Website](https://henrywellman.com)
 
 
 <!--
